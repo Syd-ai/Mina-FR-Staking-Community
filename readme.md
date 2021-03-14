@@ -1,4 +1,4 @@
-# GUIDE - Mina-FR-Staking-Community
+# GUIDE - Mina FR Staking Community - Syd
 
 DISCORD : Syd#9907 - Discord Mina (https://discord.com/invite/Vexf4ED) - Tags : Genesis Founding Member - Community MVP
 
@@ -11,7 +11,7 @@ MINA TOKENOMICS : https://minaprotocol.com/blog/mina-token-distribution-and-supp
 
 Bonjour,
 
-Je suis gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Avalanche, Nyzo, Idena, Bismuth, Stafi, Certik, Zelcash, Stakenet etc.) et depuis peu, "GFM" (Genesis Founding Member) sur Mina. J'ai été sélectionné également durant le dernier testnet pour recevoir une délégation de la Fondation Mina (Top 100) et fais partie des "Community MVP".
+Je suis gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Avalanche, Nyzo, Idena, Bismuth, Stafi, Certik, Zelcash, Stakenet etc.) et depuis peu, "GFM" (Genesis Founding Member) sur Mina. J'ai été sélectionné également durant le dernier testnet pour recevoir une délégation de la Fondation Mina (Top 100) et fais partie des "Community MVP". Par ailleurs, je suis actif sur de nombreux Discord cryptos FR tels que La Baleine (https://discord.gg/m93GeFer) ou La Cryptosphère (https://discord.gg/9ZhgUEQH). 
 
 **Mon but est donc de proposer un pool de staking MINA pour la communauté FR**. Il s'agit d'un pool accessible avec pour vous un contact français actif. Je ne souhaite pas m'étendre à l'international étant donné que mon objectif est principalement de garder un contact privilégié avec les personnes me faisant confiance pour déléguer leur Mina. Vous pourrez ainsi me contacter sur Discord ou Telegram à tout moment, en communiquant en Français. Inversement, je vous contacterai pour transmettre toute information importante ayant trait au Staking sur MINA.
 
