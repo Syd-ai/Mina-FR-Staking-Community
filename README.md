@@ -23,7 +23,9 @@ J'effectuerai les paiements grâce au script de garethtdavies#4963 modifié par 
 Pour staker vos MINA, il faut déléguer à l'addresse suivante :
 B62qnR6HKx34NCyDkSeRcJ44KATjUCs4xmQYDbwTXPJPQ4J6ebfeQe4
 
-Il n'y a pas de wallet GUI pour le moment, il faudra donc utiliser la commande CLI suivante :
+Il n'y a pas de wallet GUI pour le moment, il faudra donc utiliser les commandes CLI suivantes :
+
+mina account unlock -public-key $MINA_PUBLIC_KEY
 
 mina client delegate-stake \
     -receiver B62qnR6HKx34NCyDkSeRcJ44KATjUCs4xmQYDbwTXPJPQ4J6ebfeQe4 \
