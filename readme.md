@@ -37,7 +37,7 @@ Pour faire simple, si vos coins sont locks, vous pouvez compter sur environ un r
 
 ## COMMENT DELEGUER VOS MINA ?
 
-Pour staker vos MINA, il faut déléguer à l'addresse suivante :
+Pour staker vos MINA à travers la Pool, il faut déléguer à l'addresse suivante :
 **B62qnR6HKx34NCyDkSeRcJ44KATjUCs4xmQYDbwTXPJPQ4J6ebfeQe4**
 
 Il n'y a pas de wallet GUI pour le moment, il faudra donc utiliser les commandes CLI suivantes :
