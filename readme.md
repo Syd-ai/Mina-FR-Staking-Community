@@ -65,6 +65,6 @@ TELEGRAM : @Sydai
 
 N'hésitez pas si vous avez des questions sur la Délégation, le Staking, la Pool, ou même sur Mina en général.
 
-A bientôt et profitez de vos récompenses sur ce fabuleux projet qu'est MINA :)
+A bientôt et profitez de vos récompenses sur ce fabuleux projet qu'est MINA Protocol :)
 
 Syd
