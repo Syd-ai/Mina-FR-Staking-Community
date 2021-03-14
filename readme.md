@@ -15,7 +15,7 @@ Je suis gestionnaire de nodes et validateur depuis quelques temps sur de nombreu
 
 **Mon but est donc de proposer un pool de staking MINA pour la communauté FR**. Il s'agit d'un pool accessible avec pour vous un contact français actif. Je ne souhaite pas m'étendre à l'international étant donné que mon objectif est principalement de garder un contact privilégié avec les personnes me faisant confiance pour déléguer leur Mina. Vous pourrez ainsi me contacter sur Discord ou Telegram à tout moment, en communiquant en Français. Inversement, je vous contacterai pour transmettre toute information importante ayant trait au Staking sur MINA.
 
-Le Block Producer (BP) sera mis en place sur un **serveur de haute qualité** et bénéficiera d'un **monitoring permanent**. Aucun Snark-Worker ne sera en fonction sur la machine. Très actif sur le projet, je suis également les développements, mis à jour et forks de près. La délégation vous permet ainsi de staker vos MINA en toute sérénité, sans que vous n'ayez rien à ne vous soucier.
+Le Block Producer (BP) sera mis en place sur un **serveur de haute qualité** et bénéficiera d'un **monitoring permanent**. Aucun Snark-Worker ne sera en fonction sur la machine. Très actif sur le projet, je suis également les développements, mis à jour et forks de près. La délégation vous permet ainsi de staker vos MINA en toute sérénité, sans que vous n'ayiez rien à ne vous soucier.
 
 ***Ma commission est de 5% et NE CHANGERA PAS pendant 4 ans (jusqu'au 31 mars 2025)***. 
 
