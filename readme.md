@@ -15,7 +15,7 @@ Bonjour,
 
 Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Avalanche, Nyzo, Idena, Bismuth, Stafi, Certik, Zelcash, Stakenet etc.) et depuis peu, "GFM" (Genesis Founding Member) sur Mina. J'ai été sélectionné également durant le dernier testnet pour recevoir une délégation de la Fondation Mina (Top 100) et fais partie des "Community MVP". Par ailleurs, je suis actif sur de nombreux Discord cryptos FR tels que La Baleine (https://discord.gg/m93GeFer), Crypto Sisyphe (https://discord.gg/k59aVwwV) ou La Cryptosphère (https://discord.gg/9ZhgUEQH) sur lesquels vous m'avez peut-être déjà croisé.
 
-## OBJECTIF
+## OBJECTIF DE LA POOL
 
 **Mon but est donc de proposer un pool de staking MINA pour la communauté FR**. Il s'agit d'un pool accessible avec pour vous un contact français actif. Je ne souhaite pas m'étendre à l'international étant donné que mon objectif est principalement de garder un contact privilégié avec les personnes me faisant confiance pour déléguer leur Mina. Vous pourrez ainsi me contacter sur Discord ou Telegram à tout moment, en communiquant en Français. Inversement, je vous contacterai pour transmettre toute information importante ayant trait au Staking sur MINA.
 
