@@ -42,10 +42,13 @@ Attention, ne m'envoyez pas vos fonds. En délégant, vous gardez intégralement
 Vous pouvez également mettre fin à la délégation à tout moment (attention, il y a un délai protocolaire de 1 ou 2 époques selon les cas).
 
 Idéalement prenez également contact avec moi sur Discord ou Telegram :
+
 DISCORD : Syd#9907 - Discord Mina (https://discord.com/invite/Vexf4ED) (Vérifiez les tags : Genesis Founding Member - Community MVP, afin d'éviter de contacter un fake)
+
 TELEGRAM : @Sydai
 
 N'hésitez pas si vous avez des questions sur la Délégation ou même sur Mina en général.
 
 A bientôt!
+
 Syd
