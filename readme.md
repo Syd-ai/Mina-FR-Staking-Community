@@ -13,7 +13,7 @@ MINA TOKENOMICS : https://minaprotocol.com/blog/mina-token-distribution-and-supp
 
 Bonjour,
 
-Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Avalanche, Nyzo, Idena, Bismuth, Stafi, Certik, Zelcash, Stakenet etc.) et depuis peu, "GFM" (Genesis Founding Member) sur Mina. J'ai été sélectionné également durant le dernier testnet pour recevoir une délégation de la Fondation Mina (Top 100) et fais partie des "Community MVP". Par ailleurs, je suis actif sur de nombreux Discord cryptos FR tels que La Baleine (https://discord.gg/m93GeFer), Crypto Sisyphe (https://discord.gg/k59aVwwV) ou La Cryptosphère (https://discord.gg/9ZhgUEQH) sur lesquels vous m'avez peut-être déjà croisé.
+Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Avalanche, Hopr, Nyzo, Idena, Bismuth, Stafi, Certik, Zelcash, Stakenet etc.) et depuis peu, "GFM" (Genesis Founding Member) sur Mina. J'ai été sélectionné également durant le dernier testnet pour recevoir une délégation de la Fondation Mina (Top 100) et fais partie des "Community MVP". Par ailleurs, je suis actif sur de nombreux Discord cryptos FR tels que La Baleine (https://discord.gg/m93GeFer), Crypto Sisyphe (https://discord.gg/k59aVwwV) ou La Cryptosphère (https://discord.gg/9ZhgUEQH) sur lesquels vous m'avez peut-être déjà croisé.
 
 ## OBJECTIF DE LA POOL
 
