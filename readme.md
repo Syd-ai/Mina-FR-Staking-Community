@@ -29,7 +29,7 @@ Mon pool de staking dispose aujourd'hui d'un stake de **3,906,975 Mina (0,48 %)*
 
 ## VOS RECOMPENSES 
 
-J'effectuerai les paiements grâce au script de garethtdavies#4963 (https://docs.minaexplorer.com/minaexplorer/calculating-payments) de façon mensuelle. Le calcul est simple : si par exemple le pool mine un block avec une récompense totale de 200 MINA, il sera d'abord déduit 5% (10 MINA) de commission. Les 190 MINA restants seront ensuite redistribués à hauteur de la contribution de chacun dans la pool.
+J'effectuerai les paiements grâce au script de garethtdavies#4963 (https://docs.minaexplorer.com/minaexplorer/calculating-payments) de façon mensuelle. Basiquement, le calcul est effectué ainsi : si par exemple le pool mine un block avec une récompense totale de 200 MINA, il sera d'abord déduit 5% (10 MINA) de commission. Les 190 MINA restants seront ensuite redistribués à hauteur de la contribution de chacun dans la pool.
 
 Pour estimer vos récompenses, cela dépendra de votre stake et du statut de vos MINA (vested ou non). Toutes les informations sur les tokenomics sont retrouvables ici : https://minaprotocol.com/blog/mina-token-distribution-and-supply
 
@@ -57,7 +57,7 @@ Vous pouvez également mettre fin à la délégation à tout moment (notez qu'il
 
 ## CONTACT 
 
-Idéalement, prenez au préalable contact avec moi sur Discord ou Telegram :
+Idéalement, avant toute délégation, prenez au préalable contact avec moi sur Discord ou Telegram :
 
 DISCORD : Syd#9907 - Discord Mina (https://discord.com/invite/Vexf4ED) (Vérifiez les tags : Genesis Founding Member - Community MVP, afin d'éviter de contacter un fake)
 
