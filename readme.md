@@ -9,11 +9,17 @@ MINA PROTOCOL : https://minaprotocol.com/
 MINA TOKENOMICS : https://minaprotocol.com/blog/mina-token-distribution-and-supply
 
 
+## PRESENTATION 
+
 Bonjour,
 
-Je suis gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Avalanche, Nyzo, Idena, Bismuth, Stafi, Certik, Zelcash, Stakenet etc.) et depuis peu, "GFM" (Genesis Founding Member) sur Mina. J'ai été sélectionné également durant le dernier testnet pour recevoir une délégation de la Fondation Mina (Top 100) et fais partie des "Community MVP". Par ailleurs, je suis actif sur de nombreux Discord cryptos FR tels que La Baleine (https://discord.gg/m93GeFer), Crypto Sisyphe (https://discord.gg/k59aVwwV) ou La Cryptosphère (https://discord.gg/9ZhgUEQH). 
+Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Avalanche, Nyzo, Idena, Bismuth, Stafi, Certik, Zelcash, Stakenet etc.) et depuis peu, "GFM" (Genesis Founding Member) sur Mina. J'ai été sélectionné également durant le dernier testnet pour recevoir une délégation de la Fondation Mina (Top 100) et fais partie des "Community MVP". Par ailleurs, je suis actif sur de nombreux Discord cryptos FR tels que La Baleine (https://discord.gg/m93GeFer), Crypto Sisyphe (https://discord.gg/k59aVwwV) ou La Cryptosphère (https://discord.gg/9ZhgUEQH) sur lesquels vous m'avez peut-être déjà croisé.
+
+## OBJECTIF
 
 **Mon but est donc de proposer un pool de staking MINA pour la communauté FR**. Il s'agit d'un pool accessible avec pour vous un contact français actif. Je ne souhaite pas m'étendre à l'international étant donné que mon objectif est principalement de garder un contact privilégié avec les personnes me faisant confiance pour déléguer leur Mina. Vous pourrez ainsi me contacter sur Discord ou Telegram à tout moment, en communiquant en Français. Inversement, je vous contacterai pour transmettre toute information importante ayant trait au Staking sur MINA.
+
+## CARACTERISTIQUES
 
 Le Block Producer (BP) sera mis en place sur un **serveur de haute qualité** et bénéficiera d'un **monitoring permanent**. Aucun Snark-Worker ne sera en fonction sur la machine. Très actif sur le projet, je suis également les développements, mis à jour et forks de près. La délégation vous permet ainsi de staker vos MINA en toute sérénité, sans que vous n'ayiez rien à ne vous soucier.
 
@@ -21,8 +27,11 @@ Le Block Producer (BP) sera mis en place sur un **serveur de haute qualité** et
 
 Mon pool de staking dispose aujourd'hui d'un stake de **3,906,975 Mina (0,48 %)**. Il fait partie du top 10 actuel (https://mina.staketab.com/) et **vous garantit ainsi un résultat moins aléatoire et lissé, puisque vous serez rémunéré à hauteur de votre participation dans le pool**.
 
+## PAIEMENTS 
+
 J'effectuerai les paiements grâce au script de garethtdavies#4963 (https://docs.minaexplorer.com/minaexplorer/calculating-payments) de façon mensuelle et également sur requête personnelle. Le calcul est simple : si par exemple le pool mine un block avec une récompense totale de 200 MINA, il sera d'abord déduit 5% (10 MINA) de commission. Les 190 MINA restants seront ensuite redistribués à hauteur de la contribution de chacun dans la pool.
 
+## COMMENT DELEGUER ?
 
 Pour staker vos MINA, il faut déléguer à l'addresse suivante :
 **B62qnR6HKx34NCyDkSeRcJ44KATjUCs4xmQYDbwTXPJPQ4J6ebfeQe4**
@@ -41,6 +50,8 @@ Il n'y a pas de wallet GUI pour le moment, il faudra donc utiliser les commandes
 Attention, ne m'envoyez pas vos fonds. En délégant, vous gardez intégralement le contrôle sur vos MINA.
 
 Vous pouvez également mettre fin à la délégation à tout moment (notez qu'il y a un délai protocolaire de 1 ou 2 époques selon les cas).
+
+## CONTACT 
 
 Idéalement, prenez au préalable contact avec moi sur Discord ou Telegram :
 
