@@ -1,8 +1,11 @@
 # Mina-FR-Staking-Community
 
 DISCORD : Syd#9907 - Discord Mina (https://discord.com/invite/Vexf4ED) - Tags : Genesis Founding Member - Community MVP
+
 TELEGRAM : @Sydai
+
 MINA PROTOCOL : https://minaprotocol.com/
+
 MINA TOKENOMICS : https://minaprotocol.com/blog/mina-token-distribution-and-supply
 
 
