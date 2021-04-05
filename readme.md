@@ -29,7 +29,7 @@ Mon pool de staking dispose aujourd'hui d'un stake de **3,906,975 Mina (0,48 %)*
 
 ## VOS RECOMPENSES 
 
-J'effectuerai les paiements grâce au script de garethtdavies#4963 (https://docs.minaexplorer.com/minaexplorer/calculating-payments) à chaque époque (15 jours). Basiquement, le calcul est effectué ainsi : si par exemple le pool mine un block avec une récompense totale de 720 MINA (block + frais de transaction), il sera d'abord déduit les 5% (36 MINA) de commission. Les 684 MINA restants seront ensuite redistribués à hauteur de la contribution de chacun dans la pool (sachant qu'il y a une pondération selon que vos MINA soient supercharged ou non).
+J'effectuerai les paiements à l'aide du script de garethtdavies#4963 (https://github.com/garethtdavies/mina-payout-script) qui permet de déterminer les payouts de chacun. Les paiements seront effectués à chaque fois qu'une époque est complétée (~15 jours). Basiquement, le calcul est effectué ainsi : si par exemple le pool mine un block avec une récompense totale de 720 MINA (block + frais de transaction), il sera d'abord déduit les 5% (36 MINA) de commission. Les 684 MINA restants seront ensuite redistribués à hauteur de la contribution de chacun dans la pool (sachant qu'il y a une pondération selon que vos MINA soient supercharged ou non).
 
 Pour estimer vos récompenses, cela dépendra de votre stake et du statut de vos MINA (vested ou non). Toutes les informations sur les tokenomics sont retrouvables ici : https://minaprotocol.com/blog/mina-token-distribution-and-supply
 
