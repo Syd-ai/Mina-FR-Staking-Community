@@ -52,11 +52,11 @@ Il n'y a pas de wallet GUI pour le moment, il faudra donc utiliser les commandes
 
 ($MINA_PUBLIC_KEY ou votre clé publique).
 
+> **UPDATE : un wallet communautaire encore en version bêta est désormais disponible et vous permet de déléguer plus facilement grâce à une interface plus accessible >> https://clor.io/**
+
 Attention, ne m'envoyez pas vos fonds. **En délégant, vous gardez intégralement le contrôle sur vos MINA.**
 
 Vous pouvez également mettre fin à la délégation à tout moment (notez qu'il y a un délai protocolaire de 1 ou 2 époques selon les cas).
-
-**UPDATE : un wallet communautaire encore en version bêta est désormais disponible et vous permet de déléguer plus facilement grâce à une interface plus accessible >> https://clor.io/**
 
 ## CONTACT 
 
