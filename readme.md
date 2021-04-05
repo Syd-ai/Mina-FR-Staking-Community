@@ -55,8 +55,7 @@ Attention, ne m'envoyez pas vos fonds. **En délégant, vous gardez intégraleme
 
 Vous pouvez également mettre fin à la délégation à tout moment (notez qu'il y a un délai protocolaire de 1 ou 2 époques selon les cas).
 
-**UPDATE : un wallet communautaire encore en version bêta vous permet de déléguer plus facilement grâce à une interface plus accessible >> https://clor.io/
-**
+**UPDATE : un wallet communautaire encore en version bêta est désormais disponible et vous permet de déléguer plus facilement grâce à une interface plus accessible >> https://clor.io/**
 
 ## CONTACT 
 
