@@ -21,7 +21,7 @@ Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de no
 
 ## CARACTERISTIQUES
 
-Le Block Producer (BP) sera mis en place sur un **serveur de haute qualité** (16 cores - 32 go RAM) et bénéficiera d'un **monitoring permanent**. Aucun Snark-Worker (SW) ne sera en fonction sur la machine. Très actif sur le projet, je suis également les développements, mis à jour et forks de près. La délégation vous permet ainsi de staker vos MINA en toute sérénité, sans que vous n'ayiez rien à ne vous soucier.
+Le Block Producer (BP) sera mis en place sur deux **serveurs de haute qualité** (16 cores - 32 go RAM) et bénéficiera d'un **monitoring permanent** - Avoir un 2ème serveur permet de back-up l'autre serveur en cas de failure. Aucun Snark-Worker (SW) ne sera en fonction sur la machine. Très actif sur le projet, je suis également les développements, mis à jour et forks de près. La délégation vous permet ainsi de staker vos MINA en toute sérénité, sans que vous n'ayiez rien à ne vous soucier.
 
 ***Ma commission est de 5% et NE CHANGERA PAS pendant 4 ans (jusqu'au 31 mars 2025)***. 
 
