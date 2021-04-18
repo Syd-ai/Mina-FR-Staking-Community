@@ -51,8 +51,9 @@ Il n'y a pas de wallet GUI pour le moment, il faudra donc utiliser les commandes
     -fee 0.1`
 
 ($MINA_PUBLIC_KEY ou votre clé publique).
+(Guide officiel MINA : https://docs.minaprotocol.com/en/using-mina/staking)
 
-> **UPDATE : un wallet communautaire encore en version bêta est désormais disponible et vous permet de déléguer plus facilement grâce à une interface plus accessible >> https://clor.io/** - l'interface permettant de déléguer est assez claire, mais vous pouvez utiliser ce guide étape par étape rédigé par Everstake : https://medium.com/everstake/how-to-delegate-mina-mina-protocol-via-clorio-wallet-b35a11ddbc39
+> **UPDATE : un wallet communautaire encore en version bêta est désormais disponible et vous permet de déléguer plus facilement grâce à une interface plus accessible >> https://clor.io/** - l'interface permettant de déléguer est assez claire, mais vous pouvez utiliser ce guide étape par étape rédigé par le développeur : https://docs.clor.io/how-to-delegate)
 
 Attention, ne m'envoyez pas vos fonds. **En délégant, vous gardez intégralement le contrôle sur vos MINA.**
 
