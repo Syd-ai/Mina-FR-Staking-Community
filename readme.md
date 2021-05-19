@@ -21,7 +21,7 @@ Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de no
 
 ## CARACTERISTIQUES
 
-Le Block Producer (BP) sera mis en place sur deux **serveurs de haute qualité** (16 cores - 32 go RAM) et bénéficiera d'un **monitoring permanent** - Avoir un 2ème serveur permet de back-up l'autre serveur en cas de failure. Aucun Snark-Worker (SW) ne sera en fonction sur la machine. Très actif sur le projet, je suis également les développements, mis à jour et forks de près. La délégation vous permet ainsi de staker vos MINA en toute sérénité, sans que vous n'ayiez rien à ne vous soucier.
+Le Block Producer (BP) sera mis en place sur deux **serveurs de haute qualité** (16 cores - 32 go RAM) et bénéficiera d'un **monitoring permanent** - Avoir un 2ème serveur permet de back-up l'autre serveur en cas de failure. Aucun Snark-Worker (SW) ne sera en fonction sur les machines. Très actif sur le projet, je suis également les développements, mis à jour et forks de près. La délégation vous permet ainsi de staker vos MINA en toute sérénité, sans que vous n'ayiez rien à ne vous soucier.
 
 ***Ma commission est de 5% et NE CHANGERA PAS pendant 4 ans (jusqu'au 31 mars 2025)***. 
 
@@ -31,9 +31,9 @@ Mon pool de staking dispose aujourd'hui d'un stake de **3,906,975 Mina (0,48 %)*
 
 J'effectuerai les paiements à l'aide du script de garethtdavies#4963 (https://github.com/garethtdavies/mina-payout-script) qui permet de déterminer les payouts de chacun. Les paiements seront effectués à chaque fois qu'une époque est complétée (~15 jours). Basiquement, le calcul est effectué ainsi : si par exemple le pool mine un block avec une récompense totale de 720 MINA (block + frais de transaction), il sera d'abord déduit les 5% (36 MINA) de commission. Les 684 MINA restants seront ensuite redistribués à hauteur de la contribution de chacun dans la pool (sachant qu'il y a une pondération selon que vos MINA soient supercharged ou non).
 
-Pour estimer vos récompenses, cela dépendra de votre stake et du statut de vos MINA (vested ou non). Toutes les informations sur les tokenomics sont retrouvables ici : https://minaprotocol.com/blog/mina-token-distribution-and-supply
+Pour estimer vos récompenses, cela dépendra de votre stake et du statut de vos MINA (vested ou non). Vous pouvez utiliser la calculatrice de Towerstake pour obtenir une estimation précise: https://towerstake.com/calculatrice-de-gains-delegateurs/. Toutes les informations sur les tokenomics de MINA sont retrouvables ici : https://minaprotocol.com/blog/mina-token-distribution-and-supply
 
-Pour faire simple, si vos coins sont locks, vous pouvez compter sur environ un retour annuel de 12% pour les deux premières années. Si vos coins sont unlock, ce taux augmente à 24% (mais retombe progressivement à 15% après 14 mois).
+Pour faire simple, si vos coins sont locks, vous pouvez compter sur environ un retour annuel (APY) de 12% pour les deux premières années. Si vos coins sont unlock, ce taux augmente à 24% (mais retombe progressivement à 15% après 14 mois).
 
 ## COMMENT DELEGUER VOS MINA ?
 
