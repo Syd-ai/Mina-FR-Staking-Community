@@ -54,7 +54,8 @@ Il n'y a pas de wallet GUI pour le moment, il faudra donc utiliser les commandes
 (Guide officiel MINA : https://docs.minaprotocol.com/en/using-mina/staking)
 
 > **UPDATE : un wallet communautaire est désormais disponible et vous permet de déléguer plus facilement grâce à une interface plus accessible >> https://clor.io/** - l'interface permettant de déléguer est assez claire, mais vous pouvez utiliser ce guide étape par étape rédigé par le développeur : https://docs.clor.io/how-to-delegate)
-> **UPDATE 2 : un deuxième wallet communautaire de qualité (extension chrome et bientôt sur Android/iOS) vous permet également de déléguer facilement : https://www.aurowallet.com/)
+
+> **UPDATE 2 : un deuxième wallet communautaire de qualité (extension chrome et bientôt sur Android/iOS) vous permet également de déléguer facilement :** https://www.aurowallet.com/)
 
 Attention, ne m'envoyez pas vos fonds. **En délégant, vous gardez intégralement le contrôle sur vos MINA.**
 
