@@ -61,7 +61,7 @@ Attention, ne m'envoyez pas vos fonds. **En délégant, vous gardez intégraleme
 
 Vous pouvez également mettre fin à la délégation à tout moment (notez qu'il y a un délai protocolaire de 1 ou 2 époques selon les cas).
 
-Noter également que les Minas délégués peuvent être transférés à tout moment (mais bien entendu vous ne stakerez plus dessus)
+Notez également que les Minas délégués peuvent être transférés à tout moment (mais bien entendu vous ne stakerez plus dessus)
 
 ## CONTACT 
 
