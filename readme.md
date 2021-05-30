@@ -8,7 +8,7 @@ MINA PROTOCOL : https://minaprotocol.com/
 
 MINA TOKENOMICS : https://minaprotocol.com/blog/mina-token-distribution-and-supply
 
-GUIDE OFFICIEL STAKING (en anglais) : https://minaprotocol.com/blog/staking-rewards-on-mina
+TOUT SAVOIR SUR LE STAKING (Source Officielle - en anglais) : https://minaprotocol.com/blog/staking-rewards-on-mina
 
 ## PRESENTATION 
 
