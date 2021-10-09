@@ -30,7 +30,7 @@ Mon pool de staking dispose aujourd'hui d'un stake de **3,906,975 Mina (0,48 %)*
 
 ## VOS RECOMPENSES 
 
-J'effectuerai les paiements à l'aide du script de garethtdavies#4963 (https://github.com/garethtdavies/mina-payout-script) qui permet de déterminer les payouts de chacun. 
+J'effectuerai les paiements à l'aide du script de jrwashburn#0765 (https://github.com/jrwashburn/mina-pool-payout) qui permet de déterminer les payouts de chacun. 
 **Les paiements seront effectués à chaque fois qu'une époque est complétée (~ tous les 15 jours)**.
 
 Basiquement, le calcul est effectué ainsi : si par exemple le pool mine un block avec une récompense totale de 720 MINA (block + frais de transaction), il sera d'abord déduit les 5% (36 MINA) de commission. Les 684 MINA restants seront ensuite redistribués à hauteur de la contribution de chacun dans la pool (sachant qu'il y a une pondération selon que vos MINA soient supercharged ou non).
@@ -39,13 +39,19 @@ Pour estimer vos récompenses, cela dépendra de votre stake et du statut de vos
 
 Pour faire simple, si vos coins sont locks, vous pouvez compter sur environ un retour annuel (APY) de 12% pour les deux premières années. Si vos coins sont unlock, ce taux augmente à 24% (mais retombe progressivement à 15% après 14 mois).
 
+Notez que je n'enverrai pas les récompenses lorsqu'elles sont inférieurs à 0.01 mina (ce qui correspond à peu près à un staking inférieur à 1 mina)
+
 ## COMMENT DELEGUER VOS MINA ?
 
 Pour staker vos MINA à travers la Pool, il faut déléguer à l'addresse suivante :
 
 > **B62qnR6HKx34NCyDkSeRcJ44KATjUCs4xmQYDbwTXPJPQ4J6ebfeQe4**
 
-Il n'y a pas de wallet GUI pour le moment, il faudra donc utiliser les commandes CLI suivantes :
+> **UPDATE : un wallet communautaire est désormais disponible et vous permet de déléguer plus facilement grâce à une interface plus accessible >> https://clor.io/** - l'interface permettant de déléguer est assez claire, mais vous pouvez utiliser ce guide étape par étape rédigé par le développeur : https://docs.clor.io/how-to-delegate)
+
+> **UPDATE 2 : un deuxième wallet communautaire de qualité (extension chrome et bientôt sur Android/iOS) vous permet également de déléguer facilement :** https://www.aurowallet.com/)
+
+Si vous préférez procéder avec le wallet CLI, il faudra donc utiliser les commandes suivantes :
 
 `mina account unlock -public-key $MINA_PUBLIC_KEY`
 
@@ -56,10 +62,6 @@ Il n'y a pas de wallet GUI pour le moment, il faudra donc utiliser les commandes
 
 ($MINA_PUBLIC_KEY ou votre clé publique).
 (Guide officiel MINA : https://docs.minaprotocol.com/en/using-mina/staking)
-
-> **UPDATE : un wallet communautaire est désormais disponible et vous permet de déléguer plus facilement grâce à une interface plus accessible >> https://clor.io/** - l'interface permettant de déléguer est assez claire, mais vous pouvez utiliser ce guide étape par étape rédigé par le développeur : https://docs.clor.io/how-to-delegate)
-
-> **UPDATE 2 : un deuxième wallet communautaire de qualité (extension chrome et bientôt sur Android/iOS) vous permet également de déléguer facilement :** https://www.aurowallet.com/)
 
 Attention, ne m'envoyez pas vos fonds. **En délégant, vous gardez intégralement le contrôle sur vos MINA.**
 
