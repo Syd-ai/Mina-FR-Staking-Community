@@ -1,5 +1,8 @@
 # GUIDE - Mina FR Staking Community - Syd
 
+![Syd Mina Staking Community](https://user-images.githubusercontent.com/58671114/137028353-add1a43a-b1bb-4d6b-ba39-8b43237cd5c4.png)
+
+
 DISCORD : Syd#9907 - Discord Mina (https://discord.com/invite/Vexf4ED) - Tags : Genesis Founding Member - Community MVP
 
 TELEGRAM : @Sydai
