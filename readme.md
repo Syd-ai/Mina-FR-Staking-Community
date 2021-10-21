@@ -19,7 +19,7 @@ GROUPE FR TELEGRAM (notifications + informations) : https://t.me/joinchat/GOXwI_
 
 Bonjour,
 
-Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Avalanche, Hopr, Nyzo, Idena, Bismuth, Stafi, Certik, Zelcash, Stakenet, Buzzer etc.) et, plus récemment, "GFM" (Genesis Founding Member) sur Mina. J'ai été sélectionné également durant le dernier Testnet pour recevoir une délégation de la Fondation Mina (Top 100) et fais partie des "Community MVP". Par ailleurs, je suis actif sur de nombreux Discord cryptos FR tels que La Baleine (https://discord.gg/m93GeFer), Crypto Sisyphe (https://discord.gg/k59aVwwV) ou La Cryptosphère (https://discord.gg/xa3jpQyuJC) sur lesquels vous m'avez peut-être déjà croisé :smile: 
+Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de nombreux projets crypto (Stafi, Hopr, Nyzo, Idena, Bismuth, Certik, Zelcash, Stakenet, Buzzer etc.) et, plus récemment, "GFM" (Genesis Founding Member) sur Mina. J'ai été sélectionné également durant le dernier Testnet pour recevoir une délégation de la Fondation Mina (Top 100) et fais partie des "Community MVP". Par ailleurs, je suis actif sur de nombreux Discord cryptos FR tels que La Baleine (https://discord.gg/m93GeFer), Crypto Sisyphe (https://discord.gg/k59aVwwV) ou La Cryptosphère (https://discord.gg/xa3jpQyuJC) sur lesquels vous m'avez peut-être déjà croisé :smile: 
 
 ## OBJECTIF DE LA POOL
 
