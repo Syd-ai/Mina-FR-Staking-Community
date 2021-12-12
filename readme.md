@@ -15,6 +15,8 @@ TOUT SAVOIR SUR LE STAKING (Source Officielle - en anglais) : https://minaprotoc
 
 GROUPE FR TELEGRAM (notifications + informations) : https://t.me/joinchat/GOXwI_VMnJ5kYWRk
 
+Page d'info avec review libre des utilisateurs du pool : https://minacrypto.com/tools/syd-mina-fr-staking-community/
+
 ## PRESENTATION 
 
 Bonjour,
