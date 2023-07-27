@@ -31,7 +31,7 @@ Je suis Syd, gestionnaire de nodes et validateur depuis quelques temps sur de no
 
 Le Block Producer (BP) sera mis en place sur deux **serveurs dédiés de haute qualité** (12 et 16 cores - 128 go RAM) ainsi que d'un server cloud de backup (16 cores et 32 go) et bénéficiera d'un **monitoring permanent**. Avoir 3 serveurs permet de back-up l'un et l'autre serveur en cas de failure. Aucun Snark-Worker (SW) ne sera en fonction sur les machines. Très actif sur le projet, je suis également les développements, mise à jour et forks de près. La délégation vous permet ainsi de staker vos MINA en toute sérénité, sans que vous n'ayiez rien à ne vous soucier.
 
-***Ma commission est de 5% et NE CHANGERA PAS pendant 4 ans (jusqu'au 31 mars 2025)***. 
+***Ma commission est de 3% et NE CHANGERA PAS pendant 4 ans (jusqu'au 31 mars 2025)***. 
 
 Mon pool de staking dispose aujourd'hui d'un stake de **3,906,975 Mina (0,48 %)** (au lancement du RC - 16/03/2021). Il fait partie du top 15 actuel (https://mina.staketab.com/) et **vous garantit ainsi un résultat moins aléatoire et lissé, puisque vous serez rémunéré à hauteur de votre participation dans le pool**.
 
